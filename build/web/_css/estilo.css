@@ -1,0 +1,128 @@
+#area
+{
+    position:relative;
+    left:37%;
+    top:10%;
+    width:820px;
+    height:390px;
+}
+
+#area #formulario
+{
+    position:absolute;
+    display:block;   
+}
+fieldset
+{
+    width:820px;
+    height:530px;
+}
+ 
+legend
+{
+    font-style:bold;
+    font-family: "Segoe UI";
+}
+#formulario label
+{
+    position:absolute;
+    left:300px;
+    margin-right:5px;
+}
+ 
+
+#formulario input.demanda
+{
+    position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+#formulario input.detalhamento
+{
+    position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+#formulario input.descricao
+{
+   position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+#formulario input.area
+{
+    position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+#formulario input.palavraChave
+{
+    position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+#formulario input.fonte
+{
+    position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+#formulario input.proposicao
+{
+    position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+#formulario input.nome
+{
+    position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+#formulario input.telefone
+{
+    position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+#formulario input.email
+{
+    position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+#formulario input.instituicao
+{
+    position:absolute;
+    left:550px;
+    top:23px;
+    width:225px;
+}
+
+.label-control{
+    color: black;
+}
+
+footer{
+    background-color: black;
+}
